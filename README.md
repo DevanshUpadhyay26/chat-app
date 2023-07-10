@@ -16,7 +16,7 @@ To run the Real-Time Chat Web App locally, ensure you have the following install
 4. Any modern web browser
 
 # Installation
-1. Clone the repository: git clone (https://github.com/DevanshUpadhyay26/chat-app.git)
+1. Clone the repository: git clone (https://github.com/DevanshUpadhyay26/RealTimeChat/tree/master)
 2. Navigate to the project directory: cd real-time-chat-web-app
 3. Install the dependencies: npm install
 
@@ -28,7 +28,7 @@ To run the Real-Time Chat Web App locally, ensure you have the following install
 
 # Code Overview
 The Real-Time Chat Web App consists of two main components: the client-side code and the server-side code.
-![image](https://github-production-user-asset-6210df.s3.amazonaws.com/66689359/249210681-6b02cfb1-6190-42fe-845a-dc2026ed2c49.png)
+![image](https://github.com/DevanshUpadhyay26/RealTimeChat/assets/66689359/6b02cfb1-6190-42fe-845a-dc2026ed2c49)
 
 
 1. Client-side
