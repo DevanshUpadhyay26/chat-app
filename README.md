@@ -1,7 +1,6 @@
 # Real-Time Chat Web App
 Welcome to the Real-Time Chat Web App! This application enables real-time communication between users, allowing them to chat seamlessly in a dynamic and interactive environment.
 
-![image](ss.png)
 # Features
 • Real-time messaging: Experience instant message updates without the need to refresh the page.\
 • User-friendly interface: Enjoy a clean and intuitive chat interface for easy communication.\
